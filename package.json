@@ -25,9 +25,9 @@
     "browserify-incremental": "^3.0.1"
   },
   "dependencies": {
-    "react": "^0.13.3",
-    "react-redux": "^0.8.2",
-    "redux": "^1.0.0",
-    "redux-thunk": "^0.1.0"
+    "react": "^0.14.0",
+    "redux-devtools": "^3.0.0-beta-3",
+    "redux": "^3.0.4",
+    "redux-thunk": "^1.0.0"
   }
 }
